@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Poppins:ital,wght@0,400;1,200&display=swap');
+.login{
+    vertical-align: middle;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+   
+
+}
+.login .form-container{
+    padding:4rem ;
+}
+.login p{
+   
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    text-align: initial;
+
+}
+.login h4{
+   
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+
+a.active {
+    border-bottom: 2px solid #55c57a
+}
+
+.nav-link {
+    color: rgb(110, 110, 110);
+    font-weight: 500
+}
+
+.nav-link:hover {
+    color: #55c57a
+}
+
+.nav-pills .nav-link.active {
+    color: black;
+    background-color: white;
+    border-radius: 0.5rem 0.5rem 0 0;
+    font-weight: 600
+}
+
+.tab-content {
+    padding-bottom: 1.3rem
+}
+.mobile-grid{
+    display: inline-flex;
+    width: 100%;
+}
+.mobile-grid #mobileNumber{
+    margin-left: 10px;
+}
+.mobile-grid #country-code{
+    width: 60px;
+}
+.otp-heading{
+    text-align: justify;
+    color: #290296;
+ font-family: 'Poppins', sans-serif; ;
+}
+
+i{
+    border-radius: 50%;
+    width: 25px;
+
+}
