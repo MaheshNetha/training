@@ -3,6 +3,8 @@ import './App.css';
 import Header from './components/Header/header';
 import AuthContainer from './containers/AuthContainer/AuthContainer';
 import Login from './components/Auth/Login';
+import SharedCard from './Shared/Card/Card';
+import UserProfile from './components/Profile/Profile';
 
 function App() {
   return (
@@ -12,7 +14,10 @@ function App() {
       </header> */}
       <section>
         <AuthContainer >
-            <Login />
+            {/* <Login /> */}
+           
+           <UserProfile />
+           
            
         </AuthContainer>
       </section>
