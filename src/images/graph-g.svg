@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.703" height="55.669" viewBox="0 0 55.703 55.669">
+  <g id="Profit_Graph" data-name="Profit Graph" transform="translate(2.064 2)">
+    <g id="Group_385" data-name="Group 385">
+      <circle id="Ellipse_129" data-name="Ellipse 129" cx="25.81" cy="25.81" r="25.81" fill="none" stroke="#e9ecef" stroke-width="2" stroke-dasharray="0 0"/>
+      <path id="Ellipse_128" data-name="Ellipse 128" d="M25.81,0A25.81,25.81,0,1,1,1.881,16.139" transform="translate(0)" fill="none" stroke="#08b1ba" stroke-linecap="round" stroke-width="4" stroke-dasharray="0 0"/>
+    </g>
+    <path id="Arrow_5" data-name="Arrow 5" d="M0,0H17.975" transform="translate(19.687 32.607) rotate(-48)" fill="none" stroke="#adb5bd" stroke-width="2" stroke-dasharray="0 0"/>
+  </g>
+</svg>

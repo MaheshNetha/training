@@ -5,23 +5,18 @@ import AuthContainer from './containers/AuthContainer/AuthContainer';
 import Login from './components/Auth/Login';
 import SharedCard from './Shared/Card/Card';
 import UserProfile from './components/Profile/Profile';
+import Router from "./constants/route";
+
 
 function App() {
   return (
-    <div className="App">
-      {/* <header className="App-header">
-        <Header/>
-      </header> */}
-      <section>
-        <AuthContainer >
-            {/* <Login /> */}
-           
-           <UserProfile />
-           
-           
-        </AuthContainer>
-      </section>
+
+    <div className="app">
+     
+            <Router/>
     </div>
+
+     
   );
 }
 

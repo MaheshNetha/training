@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="23" viewBox="0 0 24 23">
+  <g id="Group_1509" data-name="Group 1509" transform="translate(0.216 -0.435)">
+    <g id="Ellipse_127" data-name="Ellipse 127" transform="translate(-0.216 0.435)" fill="#fff" stroke="#8a92a6" stroke-width="1">
+      <ellipse cx="12" cy="11.5" rx="12" ry="11.5" stroke="none"/>
+      <ellipse cx="12" cy="11.5" rx="11.5" ry="11" fill="none"/>
+    </g>
+    <g id="Ellipse_128" data-name="Ellipse 128" transform="translate(4.594 10.107)" fill="#d9d9d9" stroke="#8a92a6" stroke-width="1">
+      <circle cx="1.555" cy="1.555" r="1.555" stroke="none"/>
+      <circle cx="1.555" cy="1.555" r="1.055" fill="none"/>
+    </g>
+    <g id="Ellipse_129" data-name="Ellipse 129" transform="translate(10.784 10.435)" fill="#d9d9d9" stroke="#8a92a6" stroke-width="1">
+      <ellipse cx="1" cy="1.5" rx="1" ry="1.5" stroke="none"/>
+      <ellipse cx="1" cy="1.5" rx="0.5" ry="1" fill="none"/>
+    </g>
+    <g id="Ellipse_130" data-name="Ellipse 130" transform="translate(15.62 10.107)" fill="#d9d9d9" stroke="#8a92a6" stroke-width="1">
+      <circle cx="1.555" cy="1.555" r="1.555" stroke="none"/>
+      <circle cx="1.555" cy="1.555" r="1.055" fill="none"/>
+    </g>
+  </g>
+</svg>

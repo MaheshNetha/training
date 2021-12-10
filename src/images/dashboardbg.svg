@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1520" height="258" viewBox="0 0 1520 258">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="1.509" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b8aff"/>
+      <stop offset="1" stop-color="#0048b2"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="1.509" gradientTransform="matrix(1, 0, 0, -1, 0, 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3d30ba"/>
+      <stop offset="1" stop-color="#0048b2"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <path id="Graphic_Side_Background_Mask_" data-name="Graphic Side (Background/Mask)" d="M0,0H1520a0,0,0,0,1,0,0V242a16,16,0,0,1-16,16H16A16,16,0,0,1,0,242V0A0,0,0,0,1,0,0Z" fill="url(#radial-gradient)"/>
+    </clipPath>
+    <filter id="Ellipse_5">
+      <feOffset dx="24" dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-color="#060859" flood-opacity="0.749" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_4">
+      <feOffset dx="24" dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+      <feFlood flood-color="#060859" flood-opacity="0.749" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3">
+      <feOffset dx="24" dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-3"/>
+      <feFlood flood-color="#060859" flood-opacity="0.749" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2">
+      <feOffset dx="24" dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-4"/>
+      <feFlood flood-color="#060859" flood-opacity="0.749" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1">
+      <feOffset dx="24" dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-5"/>
+      <feFlood flood-color="#060859" flood-opacity="0.749" result="color-5"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-5"/>
+      <feComposite operator="in" in="color-5"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1621" data-name="Group 1621" transform="translate(-352 -136)">
+    <path id="Graphic_Side_Background_Mask_2" data-name="Graphic Side (Background/Mask)" d="M16,0H1504a16,16,0,0,1,16,16V258a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V16A16,16,0,0,1,16,0Z" transform="translate(352 136)" fill="url(#radial-gradient-2)"/>
+    <g id="Graphic_Side" data-name="Graphic Side" transform="translate(352 136)" clip-path="url(#clip-path)">
+      <g id="Big_Circles" data-name="Big Circles" transform="translate(-184.375 -217.622)">
+        <g transform="matrix(1, 0, 0, 1, 184.38, 217.62)" filter="url(#Ellipse_5)" style="mix-blend-mode: multiply;isolation: isolate">
+          <ellipse id="Ellipse_5-2" data-name="Ellipse 5" cx="986.59" cy="1006.851" rx="986.59" ry="1006.851" transform="translate(1814.96 -217.62) rotate(90)" fill="#fff" opacity="0.75"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 184.38, 217.62)" filter="url(#Ellipse_4)" style="mix-blend-mode: multiply;isolation: isolate">
+          <ellipse id="Ellipse_4-2" data-name="Ellipse 4" cx="763.721" cy="780.042" rx="763.721" ry="780.042" transform="translate(1382.84 5.25) rotate(90)" fill="#fff" opacity="0.75"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 184.38, 217.62)" filter="url(#Ellipse_3)" style="mix-blend-mode: multiply;isolation: isolate">
+          <ellipse id="Ellipse_3-2" data-name="Ellipse 3" cx="648.91" cy="662.417" rx="648.91" ry="662.417" transform="translate(1235.39 193.22) rotate(90)" fill="#fff" opacity="0.75"/>
+        </g>
+        <g data-type="innerShadowGroup">
+          <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="486.26" cy="486.26" r="486.26" transform="translate(1129.357 530.159) rotate(90)" fill="#fff" opacity="0.75" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g transform="matrix(1, 0, 0, 1, 184.38, 217.62)" filter="url(#Ellipse_2)" style="mix-blend-mode: multiply;isolation: isolate">
+            <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="486.26" cy="486.26" r="486.26" transform="translate(944.98 312.54) rotate(90)" fill="#fff" opacity="0.75"/>
+          </g>
+        </g>
+        <g data-type="innerShadowGroup">
+          <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="386.644" cy="386.644" r="386.644" transform="translate(1006.667 572.931) rotate(90)" fill="#fff" opacity="0.75" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g transform="matrix(1, 0, 0, 1, 184.38, 217.62)" filter="url(#Ellipse_1)" style="mix-blend-mode: multiply;isolation: isolate">
+            <circle id="Ellipse_1-3" data-name="Ellipse 1" cx="386.644" cy="386.644" r="386.644" transform="translate(822.29 355.31) rotate(90)" fill="#fff" opacity="0.75"/>
+          </g>
+        </g>
+      </g>
+      <g id="Banner_details" data-name="Banner details" transform="translate(48 68)">
+        <g id="Banner_details-2" data-name="Banner details">
+          <text id="Hello_Devs_" data-name="Hello Devs !" transform="translate(189 28)" fill="#fff" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="-190.436" y="0">Hello R SANKARA NARAYANAN !</tspan></text>
+          <text id="We_are_on_a_mission_to_help_developers_like_you_to_build_beautiful_projects_for_free." data-name="We are on a mission to help developers like you to build beautiful projects for free." transform="translate(0 67)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">You have gained dividends ₹ 2000 this week</tspan></text>
+        </g>
+        <g id="Announcements" transform="translate(1197 9)">
+          <rect id="Announcements_Background_" data-name="Announcements (Background)" width="235" height="37" rx="4" fill="rgba(58,87,232,0.35)"/>
+          <text id="Announcments" transform="translate(36 6)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-70.309" y="17">PAN - AAAPN9658F</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

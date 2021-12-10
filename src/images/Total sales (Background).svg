@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="194" viewBox="0 0 288 194">
+  <defs>
+    <filter id="Total_sales_Background_" x="0" y="0" width="288" height="194" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#112692" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Total_sales_Background_)">
+    <rect id="Total_sales_Background_2" data-name="Total sales (Background)" width="227" height="133" rx="8" transform="translate(30.5 20.5)" fill="#e9f4ff" stroke="#eef0fd" stroke-width="1"/>
+  </g>
+</svg>
