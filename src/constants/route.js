@@ -10,6 +10,7 @@ const routes = [
         path: "/",
         element: <AppLayout />,
     children: [
+        { element: <Navigate to="/signin" replace /> },
         { path: "signin", element: <Signin /> }, 
         { path: "profile", element: <UserProfile /> }, 
         { path: "demat", element: <BrokerList /> },         

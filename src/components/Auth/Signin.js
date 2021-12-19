@@ -3,6 +3,9 @@ import loginrightimg from '../../images/loginrightimg.png';
 import GoogleIcon from '../../images/google-icon.svg';
 import { Tabs  ,Tab ,Form ,Card ,Alert} from 'react-bootstrap';
 
+import TextError from "../../Shared/TextError/TextError";
+
+
 const Signin = (props)=>{
 
 

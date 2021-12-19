@@ -1,6 +1,7 @@
 
 import React from "react"
 import './header.css'
+import KintechLogo from '../../images/Kfintech-logo.svg'
 
 const Header = ()=>{
 
@@ -9,7 +10,7 @@ const Header = ()=>{
         <div class="header">
             <nav class="navbar navbar-expand-md navbar-light">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#"> <img src="../../images/Kfintech-logo.svg" alt="" class="logo"/> </a>
+                    <a class="navbar-brand" href="#"> <img src={KintechLogo} alt="" class="logo"/> </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
